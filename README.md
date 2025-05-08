@@ -82,7 +82,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Jayesh Parmar
-- Email: jayeshbapu001j@gmail.com
-- LinkedIn: [Jayesh Parmar](https://www.linkedin.com/in/jayesh-bapu-1751b72a4/)
-- GitHub: [jayesh001j](https://github.com/jayesh001j) 
+Vasu Bhalodi
+- Email: vasubhalodi12@gmail.com
+- LinkedIn: [Vasu Bhalodi](https://www.linkedin.com/in/vasu-bhalodi-092450335/)
+- GitHub: [Vasubhalodi011](https://github.com/Vasubhalodi011) 
