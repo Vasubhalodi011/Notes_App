@@ -6,7 +6,7 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 
-@Database(entities = [Note::class], version = 1, exportSchema = false)
+@Database(entities = [Note::class], version = 2, exportSchema = false)
 @TypeConverters(Converters::class)
 abstract class NotesDatabase : RoomDatabase() {
     abstract fun noteDao(): NoteDao
@@ -21,7 +21,9 @@ abstract class NotesDatabase : RoomDatabase() {
                     context.applicationContext,
                     NotesDatabase::class.java,
                     "notes_database"
-                ).build()
+                )
+                .fallbackToDestructiveMigration() // This will recreate tables if schema changes
+                .build()
                 INSTANCE = instance
                 instance
             }
