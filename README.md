@@ -90,7 +90,7 @@ Vasu Bhalodi
 
 - <p align="center">
   <img src="https://github.com/user-attachments/assets/cec68545-fdc2-4897-8722-78026d3b1e14" width="22%" style="margin-right: 2%;">
-  <img src="  https://github.com/user-attachments/assets/dfa5f8e9-8b9b-4fb6-9ed8-593b822ff8e3" width="22%" style="margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/dfa5f8e9-8b9b-4fb6-9ed8-593b822ff8e3" width="22%" style="margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/1c54375e-6c90-4112-9cc2-ebd010949cf2" width="22%" style="margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/d96b265f-9fb5-47c4-9301-114848c50898" width="22%" style="margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/2eb67216-fb75-4860-b746-becf1a15cfb0" width="22%" style="margin-right: 2%;">
